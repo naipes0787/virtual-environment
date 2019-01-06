@@ -1,4 +1,4 @@
-# TEK - Simulador de sistema multiprocesador
+# Simulador de sistema multiprocesador
 
 ## Introducción
 Simulador (Entorno virtualizado) de algunos aspectos de un sistema multiprocesador, con la capacidad de interpretar la ejecución de scripts escritos en un lenguaje detallado en el [enunciado](https://docs.google.com/document/d/1_mX1Qnzw3lO01dMwurFitsfnSV3tbx1jFo88c9JpILQ). El sistema planificará y ejecutará estos scripts controlando sus solicitudes de I/O, administrando los accesos a recursos tanto propios como compartidos.
